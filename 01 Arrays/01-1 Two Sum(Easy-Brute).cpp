@@ -1,3 +1,9 @@
+/*
+Complexity Analysis 
+Time Complexity:O(N 2), For using two nested loops to traverse the array, where N is the length of that array.
+Space Complexity: O(1), not using extra space.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
